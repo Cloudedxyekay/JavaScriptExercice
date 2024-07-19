@@ -35,3 +35,5 @@ function clearInputs() {
             document.getElementById('bookDescription').value = '';
             document.getElementById('pagesNumber').value = '';
 }
+
+//Implement delete button under the each section
